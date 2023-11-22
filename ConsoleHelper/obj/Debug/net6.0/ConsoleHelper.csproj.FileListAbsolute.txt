@@ -1,0 +1,14 @@
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\bin\Debug\net6.0\ConsoleHelper.exe
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\bin\Debug\net6.0\ConsoleHelper.deps.json
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\bin\Debug\net6.0\ConsoleHelper.runtimeconfig.json
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\bin\Debug\net6.0\ConsoleHelper.dll
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\bin\Debug\net6.0\ConsoleHelper.pdb
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\obj\Debug\net6.0\ConsoleHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\obj\Debug\net6.0\ConsoleHelper.AssemblyInfoInputs.cache
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\obj\Debug\net6.0\ConsoleHelper.AssemblyInfo.cs
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\obj\Debug\net6.0\ConsoleHelper.csproj.CoreCompileInputs.cache
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\obj\Debug\net6.0\ConsoleHelper.dll
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\obj\Debug\net6.0\refint\ConsoleHelper.dll
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\obj\Debug\net6.0\ConsoleHelper.pdb
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\obj\Debug\net6.0\ConsoleHelper.genruntimeconfig.cache
+C:\Development\GIT\C#\ConsoleHelper\ConsoleHelper\obj\Debug\net6.0\ref\ConsoleHelper.dll

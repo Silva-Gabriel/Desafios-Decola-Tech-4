@@ -1,0 +1,24 @@
+﻿namespace ConsoleHelper.Explorando_sintaxe_e_tipos_de_dados
+{
+    using System;
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            string registroEmail;
+            string registroNome;
+            string senha;
+
+
+            // Obtém o email e nome do usuário a partir da entrada do console
+            registroEmail = Console.ReadLine();
+            registroNome = Console.ReadLine();
+
+
+            // TODO: Imprima a mensagem formatada com o nome do usuário e o email de registro:
+            Console.WriteLine(registroNome + ", verifique o email: " + registroEmail + " para ativar.");
+        }
+    }
+}
